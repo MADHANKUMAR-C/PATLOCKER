@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649411864206",
+    "project_id": "parental-control-dc5e0",
+    "storage_bucket": "parental-control-dc5e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649411864206:android:e2dc269078ecfce9d58bdf",
+        "android_client_info": {
+          "package_name": "com.example.parent_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsiJjQH4kURWRF3E5esspHSCtJ8XXXNZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649411864206:android:8dcaeb881c717c10d58bdf",
+        "android_client_info": {
+          "package_name": "com.example.patlocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsiJjQH4kURWRF3E5esspHSCtJ8XXXNZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
